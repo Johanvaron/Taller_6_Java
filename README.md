@@ -1,3 +1,11 @@
 # Taller_6_Java
 
-El siguiente documento README.md proporciona información sobre un proyecto de código funcional que incluye una arquitectura MVC básica, una conexión de base de datos a través de un ConnectionPool, una interfaz Repository y su implementación, así como una vista webapp corregida y funcional para el inicio de sesión y el registro de usuarios.
+El siguiente documento README.md proporciona información sobre lo implementado los parámetros vistos en clase como los son.
+
+Dependencias Maven requeridas y operativas.
+Paquetes y sub-paquetes requeridos (MVC)
+ConnectionPool funcional.
+Interfaz Repository.java
+Clase que implementa la interfaz Respository.
+Vista (webapp) corregida y funcional (login y registro). Subcarpetas requeridas.
+Script de creación de la base de datos y la tabla usuarios.
